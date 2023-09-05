@@ -4,7 +4,7 @@ const instance = axios.create({
 	baseURL: (() => {
 		if (typeof window !== 'undefined') {
 			return (
-				window.location.protocol + '//' + window.location.hostname + ':8000/api/'
+				'http://localhost:8000/api/'
 			);
 		}
 		return '';
