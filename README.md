@@ -1,2 +1,2 @@
-- This repository serves the purpose of Front-End Deployment to conduct User Testing.
+- This repository tests whether the Front-End is ready for Deployment.
 - Click here to view the [parent repository](https://github.com/Surya-Kumar-03/Event-Management) of Events@Sathyabama.
